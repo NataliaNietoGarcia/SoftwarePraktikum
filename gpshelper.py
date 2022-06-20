@@ -66,3 +66,5 @@ class GpsHelper():
         dialog.size_hint = [.8, .8]
         dialog.pos_hint = {'center_x': .5, 'center_y': .5}
         dialog.open()
+
+        
