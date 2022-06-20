@@ -1,5 +1,5 @@
 from kivymd.app import MDApp
-from gpshelper import GpsHelpe
+from gpshelper import GpsHelper
 
 class MainApp(MDApp):
     
