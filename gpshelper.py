@@ -2,7 +2,6 @@ from kivy.app import App
 from kivy.utils import platform
 from kivymd.uix.dialog import MDDialog
 
-
 class GpsHelper():
     has_centered_map = False
 
